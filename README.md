@@ -16,7 +16,7 @@
 3. **See Results** – View nearby scrap buyers with contact details.
 4. **Send Feedback** – Help us improve by sharing your experience.
 
-## Tech Stack (Optional Section)
+## Tech Stack 
 
 - Frontend: HTML, CSS, JavaScript / React (customize this)
 - Backend: Node.js / Express / Java (customize based on your tech)
